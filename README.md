@@ -56,7 +56,7 @@ grep "complete sequence" joined.fa > complete_sequence.txt
 ```
 7. How many organisms (create a file with the organisms without duplicates)
 ```
-grep "PREDICTED" joined.fa | cut -d' ' -f3,4 | uniq -d
+grep "PREDICTED" joined.fa | cut -d' ' -f3,4 | uniq -d > organism.txt
 ```
 8. How many are predicted?
 ```
