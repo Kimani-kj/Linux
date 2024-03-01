@@ -1,0 +1,4 @@
+>JN949313.1 Mus musculus targeted non-conditional, lacZ-tagged mutant allele Nrf1:tm1e(KOMP)Wtsi; transgenic
+>JN945378.1 Mus musculus targeted KO-first, conditional ready, lacZ-tagged mutant allele Nrf1:tm1a(KOMP)Wtsi; transgenic
+>JN949313.1 Mus musculus targeted non-conditional, lacZ-tagged mutant allele Nrf1:tm1e(KOMP)Wtsi; transgenic
+>JN945378.1 Mus musculus targeted KO-first, conditional ready, lacZ-tagged mutant allele Nrf1:tm1a(KOMP)Wtsi; transgenic

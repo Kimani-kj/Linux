@@ -1,0 +1,48 @@
+>NM_001361694.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 9, mRNA
+>NM_001361695.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 10, mRNA
+>NM_001164226.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 1, mRNA
+>NM_010938.4 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 6, mRNA
+>AK082580.1 Mus musculus 0 day neonate cerebellum cDNA, RIKEN full-length enriched library, clone:C230066G05 product:nuclear respiratory factor 1, full insert sequence
+>AK029034.1 Mus musculus 10 days neonate skin cDNA, RIKEN full-length enriched library, clone:4732483G17 product:nuclear respiratory factor 1, full insert sequence
+>AK014494.1 Mus musculus 14 days embryo liver cDNA, RIKEN full-length enriched library, clone:4432414E03 product:nuclear respiratory factor 1, full insert sequence
+>NM_001361693.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 8, mRNA
+>NM_001361692.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 7, mRNA
+>XM_011241048.1 PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X8, mRNA
+>AK031103.1 Mus musculus 13 days embryo forelimb cDNA, RIKEN full-length enriched library, clone:5930405C14 product:nuclear respiratory factor 1, full insert sequence
+>AF098077.1 Mus musculus nuclear respiratory factor-1 (Nrf1) mRNA, complete cds
+>AC161538.7 Mus musculus 6 BAC RP23-1D15 (Roswell Park Cancer Institute (C57BL/6J Female) Mouse BAC Library) complete sequence
+>AC153632.2 Mus musculus 6 BAC RP23-450O1 (Roswell Park Cancer Institute (C57BL/6J Female) Mouse BAC Library) complete sequence
+>XM_017321440.1 PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X4, mRNA
+>XM_011241046.2 PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X3, mRNA
+>JN949313.1 Mus musculus targeted non-conditional, lacZ-tagged mutant allele Nrf1:tm1e(KOMP)Wtsi; transgenic
+>JN945378.1 Mus musculus targeted KO-first, conditional ready, lacZ-tagged mutant allele Nrf1:tm1a(KOMP)Wtsi; transgenic
+>NM_001164227.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 2, mRNA
+>AK037697.1 Mus musculus 16 days neonate thymus cDNA, RIKEN full-length enriched library, clone:A130038J21 product:SIMILAR TO NUCLEAR RESPIRATORY FACTOR 1 homolog [Mus musculus], full insert sequence
+>XM_017321441.1 PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X6, mRNA
+>NM_001164230.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 5, mRNA
+>XM_006505006.3 PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X5, mRNA
+>AK134483.1 Mus musculus 11 days embryo head cDNA, RIKEN full-length enriched library, clone:6230412K09 product:nuclear respiratory factor 1, full insert sequence
+>NM_001361694.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 9, mRNA
+>NM_001361695.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 10, mRNA
+>NM_001164226.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 1, mRNA
+>NM_010938.4 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 6, mRNA
+>AK082580.1 Mus musculus 0 day neonate cerebellum cDNA, RIKEN full-length enriched library, clone:C230066G05 product:nuclear respiratory factor 1, full insert sequence
+>AK029034.1 Mus musculus 10 days neonate skin cDNA, RIKEN full-length enriched library, clone:4732483G17 product:nuclear respiratory factor 1, full insert sequence
+>AK014494.1 Mus musculus 14 days embryo liver cDNA, RIKEN full-length enriched library, clone:4432414E03 product:nuclear respiratory factor 1, full insert sequence
+>NM_001361693.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 8, mRNA
+>NM_001361692.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 7, mRNA
+>XM_011241048.1 PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X8, mRNA
+>AK031103.1 Mus musculus 13 days embryo forelimb cDNA, RIKEN full-length enriched library, clone:5930405C14 product:nuclear respiratory factor 1, full insert sequence
+>AF098077.1 Mus musculus nuclear respiratory factor-1 (Nrf1) mRNA, complete cds
+>AC161538.7 Mus musculus 6 BAC RP23-1D15 (Roswell Park Cancer Institute (C57BL/6J Female) Mouse BAC Library) complete sequence
+>AC153632.2 Mus musculus 6 BAC RP23-450O1 (Roswell Park Cancer Institute (C57BL/6J Female) Mouse BAC Library) complete sequence
+>XM_017321440.1 PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X4, mRNA
+>XM_011241046.2 PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X3, mRNA
+>JN949313.1 Mus musculus targeted non-conditional, lacZ-tagged mutant allele Nrf1:tm1e(KOMP)Wtsi; transgenic
+>JN945378.1 Mus musculus targeted KO-first, conditional ready, lacZ-tagged mutant allele Nrf1:tm1a(KOMP)Wtsi; transgenic
+>NM_001164227.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 2, mRNA
+>AK037697.1 Mus musculus 16 days neonate thymus cDNA, RIKEN full-length enriched library, clone:A130038J21 product:SIMILAR TO NUCLEAR RESPIRATORY FACTOR 1 homolog [Mus musculus], full insert sequence
+>XM_017321441.1 PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X6, mRNA
+>NM_001164230.1 Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant 5, mRNA
+>XM_006505006.3 PREDICTED: Mus musculus nuclear respiratory factor 1 (Nrf1), transcript variant X5, mRNA
+>AK134483.1 Mus musculus 11 days embryo head cDNA, RIKEN full-length enriched library, clone:6230412K09 product:nuclear respiratory factor 1, full insert sequence

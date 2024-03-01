@@ -1,0 +1,4 @@
+>AC161538.7 Mus musculus 6 BAC RP23-1D15 (Roswell Park Cancer Institute (C57BL/6J Female) Mouse BAC Library) complete sequence
+>AC153632.2 Mus musculus 6 BAC RP23-450O1 (Roswell Park Cancer Institute (C57BL/6J Female) Mouse BAC Library) complete sequence
+>AC161538.7 Mus musculus 6 BAC RP23-1D15 (Roswell Park Cancer Institute (C57BL/6J Female) Mouse BAC Library) complete sequence
+>AC153632.2 Mus musculus 6 BAC RP23-450O1 (Roswell Park Cancer Institute (C57BL/6J Female) Mouse BAC Library) complete sequence
